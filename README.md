@@ -1,5 +1,3 @@
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 ## Olá, me chamo Lucas ! 
 ### Bem vindo ao meu perfil GitHub 👋
@@ -28,11 +26,3 @@ Estudande de Análise e desenvolvimento de sistemas, tenho focado meu tempo para
 <a href = "mailto:lucase21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucas-eduardo-528646ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-  
- 
-  <img align="center" src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif"/>
-
-  
-
-
-
