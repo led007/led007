@@ -1,3 +1,10 @@
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
+<!-- in your body -->
+<i class="devicon-devicon-plain"></i>
+
+
 ## Olá, me chamo Lucas ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
