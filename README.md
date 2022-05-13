@@ -10,3 +10,8 @@ Formado no curso técnico (Senac-DF), com foco na área de desenvolvimento de so
 ### Ferramentas e Tecnologias
 
 <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" width="40" height="40"/>
+<img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" width="40" height="40"/>
+<img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" width="40" height="40"/>
+<img src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" width="40" height="40"/>
+<img src="https://icongr.am/devicon/laravel-plain-wordmark.svg?size=128&color=currentColor" width="40" height="40"/>
+<img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" width="40" height="40"/>
