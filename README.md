@@ -28,8 +28,6 @@ Estudande de Análise e desenvolvimento de sistemas, tenho focado meu tempo para
 <a href="https://www.linkedin.com/in/lucas-eduardo-528646ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?led007=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 
 
