@@ -28,9 +28,9 @@ Estudande de Análise e desenvolvimento de sistemas, tenho focado meu tempo para
 <a href="https://www.linkedin.com/in/lucas-eduardo-528646ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   
-  <center>
-  <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif"/>
-  </center
+ 
+  <img align="center" src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif"/>
+
   
 
 
