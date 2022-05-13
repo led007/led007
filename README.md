@@ -4,7 +4,7 @@
 ## Olá, me chamo Lucas ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-Formado no curso técnico (Senac-DF), com foco na área de desenvolvimento de softwares, tenho focado meu tempo para aprimorar meus conhecimentos na área e desenvolvendo projetos para fins de aprendizagem.
+Estudande de Análise e desenvolvimento de sistemas, tenho focado meu tempo para aprimorar meus conhecimentos na área e desenvolvendo projetos para fins de aprendizagem. Os projetos disponibilizados no GitHub, são para fins de aprendizagem e estudo 😎.
 
 
 ### Ferramentas e Tecnologias
@@ -15,6 +15,11 @@ Formado no curso técnico (Senac-DF), com foco na área de desenvolvimento de so
 
 <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" width="40" height="40"/> <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" width="40" height="40"/> <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" width="40" height="40"/>
 
+<div>
+<a href="https://github.com/led007">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=led007&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=led007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
 
