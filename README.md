@@ -9,4 +9,4 @@ Formado no curso técnico (Senac-DF), com foco na área de desenvolvimento de so
 
 ### Ferramentas e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40"/>
+<img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" width="40" height="40"/>
