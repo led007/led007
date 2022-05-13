@@ -14,6 +14,7 @@ Estudande de Análise e desenvolvimento de sistemas, tenho focado meu tempo para
 
 <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" width="40" height="40"/> <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" width="40" height="40"/> <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" width="40" height="40"/>
 
+### Skills
 
 <div>
 <a href="https://github.com/led007">
