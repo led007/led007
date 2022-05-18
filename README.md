@@ -4,8 +4,6 @@
 
 Estudande de Análise e desenvolvimento de sistemas, tenho focado meu tempo para aprimorar meus conhecimentos na área e desenvolvendo projetos para fins de aprendizagem. Os projetos disponibilizados no GitHub, são para fins de aprendizagem e estudo 😎.
 
-<img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif"/>
-
 ### Ferramentas e Tecnologias
 
 <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" width="40" height="40"/> <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" width="40" height="40"/> <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" width="40" height="40"/> <img src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" width="40" height="40"/><img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
