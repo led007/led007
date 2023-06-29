@@ -2,7 +2,7 @@
 ## Olá, me chamo Lucas ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-Estudande de Análise e desenvolvimento de sistemas, tenho focado meu tempo para aprimorar meus conhecimentos na área e desenvolvendo projetos para fins de aprendizagem. Os projetos disponibilizados no GitHub, são para fins de aprendizagem e estudo 😎.
+Estudante de Análise e desenvolvimento de sistemas, tenho focado meu tempo para aprimorar meus conhecimentos na área e desenvolvendo projetos para fins de aprendizagem. Os projetos disponibilizados no GitHub, são para fins de aprendizagem e estudo 😎.
 
 ### Ferramentas e Tecnologias
 
